@@ -1,4 +1,4 @@
-Atención está usted leyendo una propiedad privada.
+ Atención está usted leyendo una propiedad privada.
 
 Si no dispone de autorización explícita absténgase de continuar.
 
